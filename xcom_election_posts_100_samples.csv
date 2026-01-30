@@ -1,0 +1,493 @@
+created_at,possibly_sensitive,author_id,text,clean_text,sentiment_vader_raw,sentiment_vader_label,edit_history_tweet_ids,id,public_metrics.retweet_count,public_metrics.reply_count,public_metrics.like_count,public_metrics.quote_count,public_metrics.bookmark_count,public_metrics.impression_count,entities.mentions,name,user_location,user_location_USA_state,username,verified,word_count,hashtags,Conspiracy_gpt4o_mini,Sensationalism_gpt4o_mini,Hate_Speech_gpt4o_mini,Speculation_gpt4o_mini,Satire_gpt4o_mini,Conspiracy_gpt4o,Sensationalism_gpt4o,Hate_Speech_gpt4o,Speculation_gpt4o,Satire_gpt4o,Conspiracy_gemini_2.0_flash,Sensationalism_gemini_2.0_flash,Hate_Speech_gemini_2.0_flash,Speculation_gemini_2.0_flash,Satire_gemini_2.0_flash,Conspiracy_gemini_2.5_pro,Sensationalism_gemini_2.5_pro,Hate_Speech_gemini_2.5_pro,Speculation_gemini_2.5_pro,Satire_gemini_2.5_pro,Conspiracy_llama3.1_8B,Sensationalism_llama3.1_8B,Hate_Speech_llama3.1_8B,Speculation_llama3.1_8B,Satire_llama3.1_8B,Conspiracy_llama3.3,Sensationalism_llama3.3,Hate_Speech_llama3.3,Speculation_llama3.3,Satire_llama3.3,lang
+2025-02-04 18:42:32+00:00,False,3000000906,"@MBawumia , hosted UN Resident Coordinator, H.E. Charles Abani. Abani expressed the UN's gratitude for @MBawumia contributions to Ghana's peace, democracy, and development, praising his vision for digital economic transformation and gracious 2024 election concession. https://t.co/OfCeW0lfD8",  hosted un resident coordinator he charles abani abani expressed the uns gratitude for  contributions to ghanas peace democracy and development praising his vision for digital economic transformation and gracious 2024 election concession ,0.9423,positive,['1886847828141465755'],1886847828141465755,1,0,1,0,0,5,"[{'start': 0, 'end': 9, 'username': 'MBawumia', 'id': '540485502'}, {'start': 103, 'end': 112, 'username': 'MBawumia', 'id': '540485502'}]",P A N D A 🐼,"Greater Accra, Ghana",,FAVOURITE_KIDD,False,36,[],0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2024-11-05 15:01:00+00:00,False,1206672042612838400,"Make Sure You Vote! 
+Election Day is November 5, 2024. View polling locations at https://t.co/ATtyI6vULd https://t.co/UQSrqlc6Pr","make sure you vote 
+election day is november 5 2024 view polling locations at  ",0.3182,positive,['1853814781490196518'],1853814781490196518,0,0,0,0,0,0,,Rancho Gabriela Elementary School,,,RGESRattlers,False,16,[],0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2025-01-17 17:04:19+00:00,False,548621265,"Bitcoin's correlations with major asset classes, including US equities, gold, and the US dollar index, decreased (in absolute terms) during Q4 2024, largely due to the election.
+
+Read More: https://t.co/sPsOolbbHK https://t.co/mkpfadODSC","bitcoins correlations with major asset classes including us equities gold and the us dollar index decreased in absolute terms during q4 2024 largely due to the election
+
+read more  ",0.4201,positive,['1880300126213927303'],1880300126213927303,1,1,1,0,0,54,,Grazi,NFTs  👉,,grazi,False,31,[],0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2024-12-01 12:57:44+00:00,False,1755571120390963200,"It has been 26 days since the 2024 US election. Please remember to thank God for his mercy to this nation and pray for wisdom and boldness for our leaders.       
+
+“First of all, then, I urge that supplications, prayers, intercessions, and thanksgivings be made for all people,… https://t.co/fCEDJ37kZP","it has been 26 days since the 2024 us election please remember to thank god for his mercy to this nation and pray for wisdom and boldness for our leaders       
+
+first of all then i urge that supplications prayers intercessions and thanksgivings be made for all people ",0.9393,positive,['1863205843933564992'],1863205843933564992,0,0,0,0,0,3,,WayneJ,Michigan,Michigan,WayneJoubert8,False,48,[],0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2025-05-24T11:19:44.000Z,False,1317142166901301248,"The destroyers are still among us, and they are still absolutely dominant when it comes to the institutions of power, the 2024 election did not change that.
+
+One cannot rebuild family and fertility when the laws &amp; culture are dominated by those who seek to destroy.
+4/","the destroyers are still among us and they are still absolutely dominant when it comes to the institutions of power the 2024 election did not change that
+
+one cannot rebuild family and fertility when the laws amp culture are dominated by those who seek to destroy
+4",-0.7783,negative,['1926236671294484586'],1926236671294484586,1,1,22,1,1,235,,Labrador Skeptic,A small city in the Heartland,,SaysSimulation,False,47,[],1,0,0,1,0,1,1,0,0,0,1.0,0.0,0.0,0.0,0.0,1,1,0,1,0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,en
+2025-03-12T01:17:31.000Z,False,2256936462,"@CptAncapistan Because Thomas Massie is a true American patriot who's actually voting based on what Republicans promised the American people during the 2024 election which was to cut spending. He knows (as does everyone who's being honest) that spending cuts ""next time"" will never come as they… https://t.co/0IVRWsjyOS", because thomas massie is a true american patriot whos actually voting based on what republicans promised the american people during the 2024 election which was to cut spending he knows as does everyone whos being honest that spending cuts next time will never come as they ,0.6486,positive,['1899630802398531661'],1899630802398531661,0,0,2,0,0,10,"[{'start': 0, 'end': 14, 'username': 'CptAncapistan', 'id': '1347650475500462080'}]",BullsGoneWild23,,,BullRun_23,False,48,[],0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,en
+2025-02-22 18:51:27+00:00,False,755946560794558464,"GROK adds explosive as noon to crazy man trumps commentary
+
+- The post references Donald Trump's claims on Truth Social about winning the 2024 presidential election in a landslide, capturing all swing states, the popular vote, and shifting all 50 states Republican, which… https://t.co/1zFA48LNHp https://t.co/fDWb5SpvuD","grok adds explosive as noon to crazy man trumps commentary
+
+ the post references donald trumps claims on truth social about winning the 2024 presidential election in a landslide capturing all swing states the popular vote and shifting all 50 states republican which  ",0.7269,positive,['1893373052333019358'],1893373052333019358,2,1,4,0,0,280,,American Veteran,"Palm Desert, CA",California,amvetsupport,False,45,[],0,1,0,1,0,0,1,0,1,0,0.0,1.0,0.0,1.0,0.0,0,1,0,1,0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,en
+2025-02-20 05:13:44+00:00,False,1795289231356727296,"@witQ24U What’s odd is, the path has been set for the federal election to be what BC has become. It will require broader attention from the public to address it properly. 
+
+2040 agenda no one talks about and the test piloting being done in the 2024 bi-elections, and committee that’s been… https://t.co/GI2aohLirO"," whats odd is the path has been set for the federal election to be what bc has become it will require broader attention from the public to address it properly 
+
+2040 agenda no one talks about and the test piloting being done in the 2024 bielections and committee thats been ",-0.5423,negative,['1892442492559380726'],1892442492559380726,0,1,0,0,0,11,"[{'start': 0, 'end': 8, 'username': 'witQ24U', 'id': '1597690141392666624'}]",The Remanded,Canada,,TheRemanded,False,52,[],1,0,0,1,0,1,0,0,1,0,1.0,0.0,0.0,1.0,0.0,1,0,0,1,0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,en
+2025-06-09T12:58:53.000Z,False,1720665183188922368,"@BosFTW190584 @ThisWillHold2 @ChrisMurphyCT @nytimes @KirstenGrind @mega2e @MaxwellFrostFL @jamestalarico @JasmineForUS @Ilhan @keithellison @AskPerplexity No evidence supports claims that Elon Musk used Starlink to manipulate the 2024 U.S. election. Voting systems are offline, as confirmed by election officials and CISA, making interference via Starlink impossible. Fact-checks from PolitiFact and Snopes find no credible proof of",            no evidence supports claims that elon musk used starlink to manipulate the 2024 us election voting systems are offline as confirmed by election officials and cisa making interference via starlink impossible factchecks from politifact and snopes find no credible proof of,-0.7193,negative,['1932059828811350235'],1932059828811350235,0,0,0,0,0,6,"[{'start': 0, 'end': 13, 'username': 'BosFTW190584', 'id': '1775639684753899520'}, {'start': 14, 'end': 28, 'username': 'ThisWillHold2', 'id': '1660782497834180608'}, {'start': 29, 'end': 43, 'username': 'ChrisMurphyCT', 'id': '150078976'}, {'start': 44, 'end': 52, 'username': 'nytimes', 'id': '807095'}, {'start': 53, 'end': 66, 'username': 'KirstenGrind', 'id': '42555311'}, {'start': 67, 'end': 74, 'username': 'mega2e', 'id': '2598231787'}, {'start': 75, 'end': 90, 'username': 'MaxwellFrostFL', 'id': '67309671'}, {'start': 91, 'end': 105, 'username': 'jamestalarico', 'id': '77098233'}, {'start': 106, 'end': 119, 'username': 'JasmineForUS', 'id': '918913624395079680'}, {'start': 120, 'end': 126, 'username': 'Ilhan', 'id': '1082334352711790593'}, {'start': 127, 'end': 140, 'username': 'keithellison', 'id': '14135426'}, {'start': 141, 'end': 155, 'username': 'AskPerplexity', 'id': '1882198073168080896'}]",Grok,wherever you are,,grok,True,53,[],0,0,0,0,0,1,0,0,1,0,0.0,0.0,,0.0,,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2024-11-16 18:53:53+00:00,False,1857092777009389568,"The Fed Reasserts Independence After Trump's Election 
+#Fed #Trump #Bitcoin #crypto #Coinbase #BlockChain #Tesla #ElonMusk 
+https://t.co/QEKlXqrgXj","the fed reasserts independence after trumps election 
+fed trump bitcoin crypto coinbase blockchain tesla elonmusk 
+",0.0,neutral,['1857859653637648623'],1857859653637648623,0,0,0,0,0,1,,Adam Noh,US,,noh_adam9873,False,16,"['#fed', '#trump', '#bitcoin', '#crypto', '#coinbase', '#blockchain', '#tesla', '#elonmusk']",0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2025-01-11 00:38:54+00:00,False,1796682263557513216,"@DefiantLs @truestormyjoe Prosecute Zuckerberg for 2018, 2020, 2022 and 2024 election crimes against the people.",  prosecute zuckerberg for 2018 2020 2022 and 2024 election crimes against the people,-0.4019,negative,['1877877811718791639'],1877877811718791639,0,0,0,0,0,13,"[{'start': 0, 'end': 10, 'username': 'DefiantLs', 'id': '1390762874809761793'}, {'start': 11, 'end': 25, 'username': 'truestormyjoe', 'id': '1679548924560810000'}]",TheTruthLivesInU,,,TruthTrumpWon,False,15,[],0,1,0,1,0,1,0,0,1,0,1.0,0.0,0.0,1.0,0.0,1,1,0,1,0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,en
+2025-03-21T01:30:24.000Z,False,1778726816733171712,"@RichardSny33733 @MAGACult2 Wrong. You MAGAs are in the minority whether you want to admit it or not. Trump didn‘t win the election. ’I didn’t vote’ did. The largest group falls into the category of not giving a shit about your orange cult leader.
+https://t.co/nrj7YTqCpx
+https://t.co/Nee6QcdhtR https://t.co/G3eCOESRdo","  wrong you magas are in the minority whether you want to admit it or not trump didnt win the election i didnt vote did the largest group falls into the category of not giving a shit about your orange cult leader
+
+ ",0.3445,positive,['1902895537449291947'],1902895537449291947,0,0,2,0,1,27,"[{'start': 0, 'end': 16, 'username': 'RichardSny33733', 'id': '1871552842009382912'}, {'start': 17, 'end': 27, 'username': 'MAGACult2', 'id': '1821168100185927680'}]",𝓡𝓲𝓿𝓮𝓻 𝓢𝓸𝓷𝓰🎶,Avengers Mansion,,CollinwoodME,False,46,[],0,1,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,1,0,0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,en
+2025-06-01T20:39:04.000Z,False,1163750427315195905,"🚨 BREAKING: Donald Trump and his team were not informed in advance about Ukraine’s major drone strike on Russia.
+
+The surprise move has raised questions about intel-sharing protocols during the 2024 U.S. election cycle.
+
+#Ukraine #Trump #Russia #nuclear https://t.co/bUs4qcr2ek"," breaking donald trump and his team were not informed in advance about ukraines major drone strike on russia
+
+the surprise move has raised questions about intelsharing protocols during the 2024 us election cycle
+
+ukraine trump russia nuclear ",0.0828,positive,['1929276534847602745'],1929276534847602745,1,0,1,0,0,695,,Bhaskar Chakravorty,"Uttar pradesh, India ",,Bhaskar16603,False,39,"['#ukraine', '#trump', '#russia', '#nuclear']",0,1,0,1,0,0,1,0,1,0,0.0,0.0,0.0,1.0,0.0,0,1,0,1,0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,en
+2025-06-20T03:03:35.000Z,False,2423205589,"The left is panicking and are about to look like fools. One of the niche, but foundational pillars they have chosen ""to die for"" is quickly collapsing before our eyes. The trans-rights movement, heavily promoted during the 2024 election, is crashing as most Americans reject it. https://t.co/JhmwM0nRgh",the left is panicking and are about to look like fools one of the niche but foundational pillars they have chosen to die for is quickly collapsing before our eyes the transrights movement heavily promoted during the 2024 election is crashing as most americans reject it ,-0.8938,negative,['1935896282109034767'],1935896282109034767,0,0,0,0,0,7,,🇺🇸Trump🇺🇸 #ModernAmericanHero ❌MEGAMAGA❌IFB❌,United States,,the505sw,False,47,[],0,1,0,1,0,0,1,1,1,0,0.0,1.0,0.0,1.0,0.0,0,1,0,1,0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,en
+2025-02-26 00:34:08+00:00,False,1888352400261746688,@nypost ALERT: Vandalism of public infrastructure in LA highlights growing political tensions ahead of 2024 election. City officials estimate $50K in cleanup costs. This marks 3rd major political vandalism incident in LA this month., alert vandalism of public infrastructure in la highlights growing political tensions ahead of 2024 election city officials estimate 50k in cleanup costs this marks 3rd major political vandalism incident in la this month,0.0516,positive,['1894546455731278002'],1894546455731278002,0,0,0,0,0,0,"[{'start': 0, 'end': 7, 'username': 'nypost', 'id': '17469289'}]",OCNN AI,Solana,,OCNN_ai,False,34,[],0,1,0,1,0,0,1,0,0,0,0.0,1.0,0.0,1.0,0.0,0,1,0,1,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2024-11-07 18:57:36+00:00,False,1960679857,"@DTBxss Big bird is here to help you.
+Which election is the outlier?
+Which election had so many statistical anomalies, the “winner” had a near zero chance of being the actual winner?
+Hint: it’s not 2024.
+
+But, unlike you, I welcome an investigation. Start with Maricopa&amp;Kari Lake’s race. https://t.co/pQuz103Q03"," big bird is here to help you
+which election is the outlier
+which election had so many statistical anomalies the winner had a near zero chance of being the actual winner
+hint its not 2024
+
+but unlike you i welcome an investigation start with maricopaampkari lakes race ",0.8793,positive,['1854599099158331768'],1854599099158331768,0,0,0,0,0,6,"[{'start': 0, 'end': 7, 'username': 'DTBxss', 'id': '1247755284677713920'}]",Suburban Mom for Trump,,,magagirl1234,False,49,[],1,0,0,1,0,1,1,0,1,0,1.0,0.0,0.0,1.0,0.0,1,0,0,1,0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,en
+2025-07-03T11:18:36.000Z,False,848919027636473856,"@mattyglesias Affordability is the number one issue pretty much everywhere, as evidenced by the 2024 election and the salience of inflation/cost of living", affordability is the number one issue pretty much everywhere as evidenced by the 2024 election and the salience of inflationcost of living,0.5423,positive,['1940731897468043552'],1940731897468043552,0,0,0,0,0,18,"[{'start': 0, 'end': 13, 'username': 'mattyglesias', 'id': '15446531'}]",PDG887,"New York, USA",New York,PDG887,False,23,[],0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2025-03-30T02:52:28.000Z,False,2750591177,"@Chess1771986Kim @Moses22316 @OldJackHinson @realRawPaul @libsoftiktok You just said the 2024 polls were wrong about Harris. Yet you feel very strongly about the accuracy of that poll.
+
+I repeat, once again, the actual 2025 special election results say otherwise. 
+
+Here’s some facts about the Iowa elections, which were +21 Trump in 2024. https://t.co/Slqf7xCFvp","     you just said the 2024 polls were wrong about harris yet you feel very strongly about the accuracy of that poll
+
+i repeat once again the actual 2025 special election results say otherwise 
+
+heres some facts about the iowa elections which were 21 trump in 2024 ",0.2484,positive,['1906177679860142088'],1906177679860142088,0,0,0,0,0,17,"[{'start': 0, 'end': 16, 'username': 'Chess1771986Kim', 'id': '1708562777311227904'}, {'start': 17, 'end': 28, 'username': 'Moses22316', 'id': '1244760932963823619'}, {'start': 29, 'end': 43, 'username': 'OldJackHinson', 'id': '695074495569068032'}, {'start': 44, 'end': 56, 'username': 'realRawPaul', 'id': '48637571'}, {'start': 57, 'end': 70, 'username': 'libsoftiktok', 'id': '1326229737551912960'}]",Diego,,,ZurdaDeDiego,False,52,[],0,0,0,1,0,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,en
+2024-10-21 04:41:56+00:00,False,1128842143781363712,"October 20, 2024: 4 shocking facts about the BC NDP gov't I learned while working on the BC '24 election for the Conservative Party of BC.  I discovered that: 
+1. David Eby's BC NDP gov't had taken a 2.4 billion dollar surplus and turned it into a 9 billion dollar deficit.  
+2.… https://t.co/Uh1MpUnm8N https://t.co/b4J1tgiQqU https://t.co/dDHEc18QNC","october 20 2024 4 shocking facts about the bc ndp govt i learned while working on the bc 24 election for the conservative party of bc  i discovered that 
+1 david ebys bc ndp govt had taken a 24 billion dollar surplus and turned it into a 9 billion dollar deficit  
+2   ",-0.4019,negative,['1848223168944857149'],1848223168944857149,0,0,0,0,0,2,,Kathleen H. Walker,"Vancouver, British Columbia",,KHWalker4U,False,55,[],0,1,0,1,0,0,1,0,1,0,0.0,1.0,0.0,1.0,0.0,0,1,0,1,0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,en
+2025-03-11 04:53:39+00:00,False,1687211918308585472,"@ZeynabDay @mannyagni @xxtoffxx I wish Trump voters were more expressly high-SES. 
+
+Anyway: https://t.co/4B9HhE0DT1 https://t.co/RKHY1iercr","   i wish trump voters were more expressly highses 
+
+anyway  ",0.4019,positive,['1899322805717545458'],1899322805717545458,0,0,0,0,0,10,"[{'start': 0, 'end': 10, 'username': 'ZeynabDay', 'id': '987149376'}, {'start': 11, 'end': 21, 'username': 'mannyagni', 'id': '1649685857626882049'}, {'start': 22, 'end': 31, 'username': 'xxtoffxx', 'id': '1771498654857121792'}]",Heterodox Rightist,中華伊斯蘭共和國,,RightHeterodoxy,False,14,[],0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,en
+2025-02-12 00:57:17+00:00,False,1859866448736419842,@SenAdamSchiff Everyone in Gov &amp; in America wants Adam Schiff removed from the Senate &amp; prosecuted for conspiring to remove a sitting POTUS &amp; for interfering with the 2024 election. https://t.co/kjZKRyQ7T4, everyone in gov amp in america wants adam schiff removed from the senate amp prosecuted for conspiring to remove a sitting potus amp for interfering with the 2024 election ,-0.3818,negative,['1889478849727250770'],1889478849727250770,0,0,0,0,0,0,"[{'start': 0, 'end': 14, 'username': 'SenAdamSchiff', 'id': '29501253'}]",LogicWins66,,,LogicWins66,False,31,[],1,0,0,1,0,1,1,0,1,0,1.0,0.0,0.0,1.0,0.0,1,1,0,1,0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,en
+2025-01-23 09:39:14+00:00,False,1875397125925703680,@naralokesh the man behind the 2024 election and next cm ma Anna Nara Lokesh Garu happy birthday 🔥🔥 https://t.co/6LDAphGk01, the man behind the 2024 election and next cm ma anna nara lokesh garu happy birthday  ,0.5719,positive,['1882362445232287868'],1882362445232287868,0,0,0,0,0,0,"[{'start': 0, 'end': 11, 'username': 'naralokesh', 'id': '88859982'}]",Siva Bhargav,,,SivaBharga73915,False,19,[],0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2024-12-03 17:56:51+00:00,False,1638281693927821322,"Ethereum's transaction revenue has surged since Donald Trump's election victory in 2024. According to Steno Research, Ethereum's daily transaction revenue has increased significantly since Trump's victory. 
+#Ethereum #Eth #BreakingNews #CryptoNews #Crypto https://t.co/xozjKSazFO","ethereums transaction revenue has surged since donald trumps election victory in 2024 according to steno research ethereums daily transaction revenue has increased significantly since trumps victory 
+ethereum eth breakingnews cryptonews crypto ",0.2732,positive,['1864005893802672257'],1864005893802672257,0,0,2,0,0,46,,Prince BMG💰💎,Global Citizen,,RoyalCryptoLord,False,32,"['#ethereum', '#eth', '#breakingnews', '#cryptonews', '#crypto']",0,1,0,0,0,0,1,0,0,0,0.0,0.0,0.0,1.0,0.0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,en
+2024-10-23 19:59:30+00:00,False,51155738,"Here’s a rundown on some of the down-ballot stuff in Athens, like tax referendums and races for state legislature: https://t.co/lhpg7GH7wK",heres a rundown on some of the downballot stuff in athens like tax referendums and races for state legislature ,0.3612,positive,['1849178855988228436'],1849178855988228436,0,0,0,0,0,7,,Blake Aued,"Athens, Ga.",,BlakeAued,False,20,[],0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2025-02-24 18:34:03+00:00,False,1843835056202362882,"@RonDeSNews Yes, I live in a small city in Los Angeles county. We have always voted in our City Hall. Community volunteers create a friendly even.
+2020 election , the location changed, no familiar people and 
+brand new voting machines. I left after voting a little bewildered.
+2024  mail in"," yes i live in a small city in los angeles county we have always voted in our city hall community volunteers create a friendly even
+2020 election  the location changed no familiar people and 
+brand new voting machines i left after voting a little bewildered
+2024  mail in",0.7003,positive,['1894093447503462873'],1894093447503462873,0,0,0,0,0,2,"[{'start': 0, 'end': 11, 'username': 'RonDeSNews', 'id': '1785315566829404160'}]",Cindy Oberman,,,CindyOberman,False,50,[],0,0,0,1,0,0,0,0,0,0,1.0,0.0,0.0,1.0,0.0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,en
+2025-02-13 20:57:36+00:00,False,3158132516,"5/7
+The Climax pt.2:
+10/29/2024-Trump and Kennedy come to table, bipartisan support cemented, BTC bounces off ""Trump"" resistance
+11/5/2024-Trump wins narrow race, Election Day lows act as springboard to send price through ""Trump"" s/r line, monetary policy looks good for risk on https://t.co/UVHvSlk4lo","57
+the climax pt2
+10292024trump and kennedy come to table bipartisan support cemented btc bounces off trump resistance
+1152024trump wins narrow race election day lows act as springboard to send price through trump sr line monetary policy looks good for risk on ",0.7506,positive,['1890143309215223914'],1890143309215223914,0,1,0,0,0,29,,Leo 🦁The Lion🦁 Kuntz,United States,,leolionmma,False,43,[],0,0,0,1,0,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0,0,0,1,0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,en
+2025-03-21T12:31:30.000Z,False,1553056175633072128,"@JDunlap1974 If anything was stolen, it was the 2024 election. Ask Elon Musk, because he perpetrated the scheme to steal the election for Trump.", if anything was stolen it was the 2024 election ask elon musk because he perpetrated the scheme to steal the election for trump,-0.7506,negative,['1903061908967612670'],1903061908967612670,1,0,2,0,0,5,"[{'start': 0, 'end': 12, 'username': 'JDunlap1974', 'id': '1430605174674964480'}]",Michael Imbruglia,,,MichaelImbrugl5,False,24,[],1,0,0,1,0,1,1,0,1,0,1.0,0.0,0.0,1.0,0.0,1,1,1,1,0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,en
+2024-12-20 09:15:01+00:00,False,1910040806,"As 2024 wraps up, Kasi Insight’s Index of #ConsumerSentiment (ICS)  has predicted 10 African presidential outcomes with 90% accuracy! 🌍📊 What’s next for 2025? Click to uncover key insights shaping Africa’s political future. 🔍👇
+https://t.co/PrYMmZaGs0 
+
+ #EconomicSentiment https://t.co/OoCfud61Rb","as 2024 wraps up kasi insights index of consumersentiment ics  has predicted 10 african presidential outcomes with 90 accuracy  whats next for 2025 click to uncover key insights shaping africas political future 
+ 
+
+ economicsentiment ",0.0,neutral,['1870035165101039859'],1870035165101039859,1,0,3,0,0,15,,Kasi Insight,Canada + Africa,,kasiinsight,False,37,"['#consumersentiment', '#economicsentiment']",0,1,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,en
+2025-01-15 19:00:32+00:00,False,180514393,"Then, I'll moderate the second session of Day 1, with a roundtable discussion including @nado1377, @kimalex3, @TinaLBarton, Tommy Gong, @LACountyRRCC, @OCRegistrar, and @EdSmithElex!  We'll dive deeply into their work in 2024 to educate voters and to deal with election rumors and… https://t.co/xo6MXNmjIV",then ill moderate the second session of day 1 with a roundtable discussion including    tommy gong   and   well dive deeply into their work in 2024 to educate voters and to deal with election rumors and ,-0.1779,negative,['1879604601386910062'],1879604601386910062,0,0,0,0,0,1,"[{'start': 88, 'end': 97, 'username': 'nado1377', 'id': '297058440'}, {'start': 99, 'end': 108, 'username': 'kimalex3', 'id': '113144952'}, {'start': 110, 'end': 122, 'username': 'TinaLBarton', 'id': '519980740'}, {'start': 136, 'end': 149, 'username': 'LACountyRRCC', 'id': '21807663'}, {'start': 151, 'end': 163, 'username': 'OCRegistrar', 'id': '36180323'}, {'start': 169, 'end': 181, 'username': 'EdSmithElex', 'id': '1758204111806234624'}]",R. Michael Alvarez,,,rmichaelalvarez,False,42,[],0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2024-11-19 18:46:58+00:00,False,1324434443684118530,"@GrahamAllen_1 Well you have a problem with people peacefully protesting the legitimacy of the 2024 election  you call them insurrections Well, neo-nazis stom our nation and you say nothing This is why you are called what you were called private Allen https://t.co/Cf0uQ281ux",_1 well you have a problem with people peacefully protesting the legitimacy of the 2024 election  you call them insurrections well neonazis stom our nation and you say nothing this is why you are called what you were called private allen ,0.2732,positive,['1858945075721769192'],1858945075721769192,0,0,0,0,0,9,"[{'start': 0, 'end': 14, 'username': 'GrahamAllen_1', 'id': '832978972602429440'}]",Megatron31,United States,,Megatron3110,False,42,[],0,1,0,0,0,0,1,1,1,0,0.0,0.0,1.0,0.0,0.0,0,1,0,1,0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,en
+2024-12-20 22:46:02+00:00,False,115517580,"Obamacare sign-ups lag after Trump election, legal challenges https://t.co/kVxwEg35hi https://t.co/u0rrF8YReW",obamacare signups lag after trump election legal challenges  ,-0.1531,negative,['1870239263545086136'],1870239263545086136,0,0,1,0,0,28,,Press & Guide,"Dearborn, MI",Michigan,pressandguide,False,10,[],0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2025-01-23 20:28:22+00:00,False,1586107332827619329,"I asked AI what crimes Elon musk could be facing over the 2024 election and here are the results. 
+@elonmusk https://t.co/R6KCYcDzIm","i asked ai what crimes elon musk could be facing over the 2024 election and here are the results 
+ ",0.0,neutral,['1882525807475900655'],1882525807475900655,0,0,0,0,0,0,"[{'start': 99, 'end': 108, 'username': 'elonmusk', 'id': '44196397'}]",will can,,,LatsWil,False,21,[],0,0,0,1,0,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0,1,0,1,0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,en
+2025-03-03 12:03:25+00:00,False,131428766,"@Maria10375908 @TrumpRealDaily The operative word is ""cheat"".  I don't believe Kamala got as many votes as we were told.  I think they tried to steal the 2024 election, but they didn't count on so many liberals voting for Trump.",  the operative word is cheat  i dont believe kamala got as many votes as we were told  i think they tried to steal the 2024 election but they didnt count on so many liberals voting for trump,-0.4767,negative,['1896531860144173139'],1896531860144173139,0,0,1,0,0,2,"[{'start': 0, 'end': 14, 'username': 'Maria10375908', 'id': '1598153893652963332'}, {'start': 15, 'end': 30, 'username': 'TrumpRealDaily', 'id': '1787115009778040833'}]",🇺🇸 SouthernRebel 🇺🇸,In this spot...:),,lil_babydol,False,39,[],1,0,0,1,0,1,0,0,1,0,1.0,0.0,0.0,1.0,0.0,1,0,0,1,0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,en
+2025-04-06T12:02:04.000Z,False,1652980565866344449,@Nuked4Every1 an aerial view of the results of the 2024 election https://t.co/3l14YzrFih, an aerial view of the results of the 2024 election ,0.0,neutral,['1908852706850054616'],1908852706850054616,0,0,0,0,0,1,"[{'start': 0, 'end': 13, 'username': 'Nuked4Every1', 'id': '1716845849349607424'}]",Mike Gardner,,,MikeGardne29757,False,12,[],0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1.0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2025-02-07 18:59:00+00:00,False,1023821100,"@MAGACult2 And here's the article that graphic is from if anyone wants to read how much more support Trump had from farmers in 2024 then he did in 2016. It's stomach turning. 
+
+https://t.co/Cgl8fFMOk6"," and heres the article that graphic is from if anyone wants to read how much more support trump had from farmers in 2024 then he did in 2016 its stomach turning 
+
+",0.4576,positive,['1887939136075743643'],1887939136075743643,0,0,0,0,0,2,"[{'start': 0, 'end': 10, 'username': 'MAGACult2', 'id': '1821168100185927680'}]",Pragmatic Politic 🇺🇸🇮🇱🇺🇦,,,PrgmaticPolitic,False,33,[],0,1,0,0,0,0,1,0,0,0,0.0,1.0,0.0,0.0,0.0,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,en
+2025-02-13 06:58:04+00:00,False,2537220561,"Losers and winners since Trump election 5 November 2024 to 17 December 2024:
+
+#1 Bitcoin
+#2 Argentina 
+#3 Turkey
+#4 Nasdaq (US corps)
+#5 SPX (US corps)
+#6 Dow Jones (US corps)
+#7 Singapore 
+#8 India (Sensex)
+#9 Japanese Corps https://t.co/gsL5Ij0LYc","losers and winners since trump election 5 november 2024 to 17 december 2024
+
+1 bitcoin
+2 argentina 
+3 turkey
+4 nasdaq us corps
+5 spx us corps
+6 dow jones us corps
+7 singapore 
+8 india sensex
+9 japanese corps ",-0.0772,negative,['1889932032945619013'],1889932032945619013,0,1,0,0,0,27,,Jeslin,Hong Kong,,dicxty,False,41,"['#1', '#2', '#3', '#4', '#5', '#6', '#7', '#8', '#9']",0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2024-11-11 12:38:15+00:00,False,118974335,"🗳️ Maharashtra Election 2024: For 288 seats, candidate count discrepancies arise. 
+ECI records show 4,140 vs. 4,136 candidates at different times. 🤔 
+What’s the actual count, @ECI?
+
+#MaharashtraPoll2024 #ECI #AssemblyElections #CandidateCount #ElectionUpdates @adrspeaks https://t.co/QmgCOvzMxo"," maharashtra election 2024 for 288 seats candidate count discrepancies arise 
+eci records show 4140 vs 4136 candidates at different times  
+whats the actual count 
+
+maharashtrapoll2024 eci assemblyelections candidatecount electionupdates  ",0.0,neutral,['1855953185237770498'],1855953185237770498,0,0,0,0,0,7,"[{'start': 175, 'end': 179, 'username': 'eci', 'id': '6299872'}, {'start': 260, 'end': 270, 'username': 'adrspeaks', 'id': '74145298'}]",Premdas Rathod,"Aurangabad, India",,PremdasrRathod,False,34,"['#maharashtrapoll2024', '#eci', '#assemblyelections', '#candidatecount', '#electionupdates']",0,0,0,1,0,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,en
+2025-07-14T12:52:48.000Z,False,1382620663,"@brianlilley Did Jagmeet gamble on Trudeau not resigning until after the election or did he just want his pension. Either way, he really ruined the party.  The NDP MPs should have voted against Jagmeet's wishes and voted non-confidence back in the fall of 2024.", did jagmeet gamble on trudeau not resigning until after the election or did he just want his pension either way he really ruined the party  the ndp mps should have voted against jagmeets wishes and voted nonconfidence back in the fall of 2024,0.2816,positive,['1944741872104018244'],1944741872104018244,0,0,0,0,0,1,"[{'start': 0, 'end': 12, 'username': 'brianlilley', 'id': '23865085'}]",Honk Honk Fringe Minority 🇮🇱 🇨🇦Deb Roy,1000 Islands Canada,,debroy62,False,44,[],0,0,0,1,0,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,en
+2025-03-11 00:28:47+00:00,False,1720665183188922368,"@g_ashvathkumar @Nher_who The Election Commission’s data showing Ramkamal Das with 43 sons, 13 born in the same year, raises red flags. Biologically implausible—gestation takes 9 months, so one man fathering 13 kids in a year is absurd. ECI’s voter rolls have been questioned before; a 2024 Supreme Court… https://t.co/NtiFU82oeA",_ashvathkumar _who the election commissions data showing ramkamal das with 43 sons 13 born in the same year raises red flags biologically implausiblegestation takes 9 months so one man fathering 13 kids in a year is absurd ecis voter rolls have been questioned before a 2024 supreme court ,0.4939,positive,['1899256150979166650'],1899256150979166650,0,1,0,0,0,9,"[{'start': 0, 'end': 15, 'username': 'g_ashvathkumar', 'id': '1598583434410090496'}, {'start': 16, 'end': 25, 'username': 'Nher_who', 'id': '788998565381021696'}]",Grok,wherever you are,,grok,True,49,[],0,1,0,1,0,0,1,0,1,0,0.0,0.0,0.0,1.0,0.0,0,0,0,1,0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,en
+2024-12-13 18:53:11+00:00,False,1385281505010741250,"@bluhue123 What do they need pardoning from?? Innocent people, don't need pardons!!
+
+White House Spox: Joe Biden ‘Going to Talk with His Team’ About Preemptive Pardons for Allies
+https://t.co/UVFJYBZxik"," what do they need pardoning from innocent people dont need pardons
+
+white house spox joe biden going to talk with his team about preemptive pardons for allies
+",0.661,positive,['1867643950963863634'],1867643950963863634,0,0,0,0,0,0,"[{'start': 0, 'end': 10, 'username': 'bluhue123', 'id': '781939700776828928'}]",DJ,,,DJ87112331,False,29,[],0,0,0,1,0,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0,1,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,en
+2024-11-04 20:01:18+00:00,False,1778127196332216320,"BREAKING: @Normeisen and @LULAC's new piece exposing Trump &amp; his allies’ repeated “Big Lie” about immigrants and voting
+
+The truth? Only eligible Americans vote in federal elections, w/ fewer than 0.0001% of cases revealing otherwise
+
+Read on @Slate  here: https://t.co/21xEEKz6Rh","breaking  and s new piece exposing trump amp his allies repeated big lie about immigrants and voting
+
+the truth only eligible americans vote in federal elections w fewer than 00001 of cases revealing otherwise
+
+read on   here ",0.0516,positive,['1853527965637967894'],1853527965637967894,0,0,0,0,0,0,"[{'start': 10, 'end': 20, 'username': 'NormEisen', 'id': '1965420800'}, {'start': 25, 'end': 31, 'username': 'LULAC', 'id': '20071932'}, {'start': 247, 'end': 253, 'username': 'Slate', 'id': '15164565'}]",State Democracy Defenders Action,,,SDDAction,False,40,[],0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2024-12-14 12:30:01+00:00,False,1705225526619541504,"Big changes are coming with the Cabinet's approval of two crucial bills for “#OneNationOneElection”! This step could reshape #India’s political landscape.
+
+Read here: https://t.co/wz9ZDt5slX
+
+#Election #Cabinet #Political #indian #world #Followus #exploremore #news #ARCLANTIC","big changes are coming with the cabinets approval of two crucial bills for onenationoneelection this step could reshape indias political landscape
+
+read here 
+
+election cabinet political indian world followus exploremore news arclantic",0.4767,positive,['1867909908923928966'],1867909908923928966,0,0,0,0,0,7,,ARCLANTIC,India,,arclanticltd,False,33,"['#onenationoneelection', '#india', '#election', '#cabinet', '#political', '#indian', '#world', '#followus', '#exploremore', '#news', '#arclantic']",0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2025-02-04 18:22:55+00:00,False,430001771,"@Pippapasses1 @rente83678 @ChrisDJackson Unless it is Hillary claiming ""stolen election"" in 2016, and Harris supporters claiming the same for 2024....",   unless it is hillary claiming stolen election in 2016 and harris supporters claiming the same for 2024,-0.0772,negative,['1886842891076579401'],1886842891076579401,0,0,0,0,0,4,"[{'start': 0, 'end': 13, 'username': 'Pippapasses1', 'id': '1262014250064764928'}, {'start': 14, 'end': 25, 'username': 'rente83678', 'id': '1813643736879869952'}, {'start': 26, 'end': 40, 'username': 'ChrisDJackson', 'id': '20640982'}]",Dimsdale Piranha,,,DimsdalePiranha,False,20,[],0,0,0,1,0,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,en
+2024-11-18 18:44:30+00:00,False,718594822215450626,"Questions Remain After Machine Gun Arrest on Election Day
+
+https://t.co/blgcEvL1LY
+
+ #Government #assaultweapon #electionday #localnews #latestnews #crimenews #nyc #bronx https://t.co/RTy1ZGfS9C","questions remain after machine gun arrest on election day
+
+
+
+ government assaultweapon electionday localnews latestnews crimenews nyc bronx ",-0.5859,negative,['1858582070148141349'],1858582070148141349,0,0,0,0,0,6,,Bronx Voice,"Bronx, New York",New York,Bronxvoice1,False,19,"['#government', '#assaultweapon', '#electionday', '#localnews', '#latestnews', '#crimenews', '#nyc', '#bronx']",0,1,0,0,0,0,0,0,0,0,0.0,1.0,0.0,1.0,0.0,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,en
+2025-06-19T11:57:50.000Z,False,394614383,"🗳️ Guardians of the Ballot: Promoting Electoral Peace in Northern Ghana. How civil society is helping to prevent violence &amp; promote dialogue during elections - 2024 election inclusive. Read more 📷 https://t.co/gBXlo2mDBc… #ElectoralPeace #SINGIII #CivicAction
+@FCDOGovUK https://t.co/dtpl3NHImZ"," guardians of the ballot promoting electoral peace in northern ghana how civil society is helping to prevent violence amp promote dialogue during elections  2024 election inclusive read more   electoralpeace singiii civicaction
+ ",0.7003,positive,['1935668340715815166'],1935668340715815166,0,0,0,0,0,23,"[{'start': 264, 'end': 274, 'username': 'FCDOGovUK', 'id': '14353202'}]",STAR-Ghana Foundation,"Ogbojo-East Legon, Accra",,STARGhana,False,37,"['#electoralpeace', '#singiii', '#civicaction']",0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2025-05-02T22:06:27.000Z,False,1465259370464296963,@FPL_Liger @grok @napqueen3000 This is the uk graph from Political Compass based on the UK election 2024 campaigns https://t.co/LnhC4qhkfY,_liger   this is the uk graph from political compass based on the uk election 2024 campaigns ,0.0,neutral,['1918426890362142751'],1918426890362142751,0,0,0,0,0,23,"[{'start': 0, 'end': 10, 'username': 'FPL_Liger', 'id': '948546802768367617'}, {'start': 11, 'end': 16, 'username': 'grok', 'id': '1720665183188922368'}, {'start': 17, 'end': 30, 'username': 'napqueen3000', 'id': '971029673412038657'}]",Jonathan Evans,,,Jonatha82599254,False,19,[],0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2024-12-30 12:36:50+00:00,False,1845768263919153158,Biden Furious at Merrick Garland Because He Didn't Work Harder to Lock Up Donald Trump Before the Election https://t.co/36t16OYDD4 #gatewaypundit via @gatewaypundit,biden furious at merrick garland because he didnt work harder to lock up donald trump before the election  gatewaypundit via ,-0.5719,negative,['1873709833708532134'],1873709833708532134,0,0,0,0,0,1,"[{'start': 150, 'end': 164, 'username': 'gatewaypundit', 'id': '19211550'}]",Floridadestindiver,Florida,Florida,Floridades32541,False,22,['#gatewaypundit'],0,1,0,1,0,0,1,0,1,0,0.0,1.0,0.0,1.0,0.0,0,1,0,1,0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,en
+2024-10-18 18:58:15+00:00,False,1431031490,Biden administration races to shell out billions for clean energy as election nears https://t.co/cf89cXn4Pi,biden administration races to shell out billions for clean energy as election nears ,0.5859,positive,['1847351503163469841'],1847351503163469841,0,0,0,0,0,1,,#TheSpiderHunter - Black History Is Important!,USA,,Arthur59611540,False,14,[],0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0,1,0,1,0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2025-06-09T12:53:43.000Z,False,1849953995189780483,"@FoxNews **OF COURSE** the 2024 election was stolen...
+
+The difference is, Democrats are not going to tear the **LITERAL** fabric of society by trying to overthrow the government just cause we're mad we lost an election😂😂
+
+That's a peasant republican thing to do😷
+
+Poverty behavior."," of course the 2024 election was stolen
+
+the difference is democrats are not going to tear the literal fabric of society by trying to overthrow the government just cause were mad we lost an election
+
+thats a peasant republican thing to do
+
+poverty behavior",-0.9001,negative,['1932058528958881794'],1932058528958881794,0,0,1,0,0,9,"[{'start': 0, 'end': 8, 'username': 'FoxNews', 'id': '1367531'}]",Alex Gee,,,aIexg7426,False,45,[],1,0,1,1,1,1,1,1,1,1,1.0,1.0,1.0,0.0,1.0,0,1,1,0,1,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,en
+2025-02-15 00:35:45+00:00,False,1482047508230680581,"@sharonwaxman What elections?  Seriously?  Don't blame Vance for your ignorance.  This would be Romania where they cancelled the election because of ""interference"" https://t.co/uITM5IOFFG", what elections  seriously  dont blame vance for your ignorance  this would be romania where they cancelled the election because of interference ,-0.4878,negative,['1890560595604230471'],1890560595604230471,0,1,1,0,0,23,"[{'start': 0, 'end': 13, 'username': 'sharonwaxman', 'id': '27378998'}]",NonsensicalRavings,Gloucestershire,,__Nonsensical,False,23,[],0,0,0,1,0,0,0,0,1,0,1.0,0.0,0.0,1.0,0.0,1,0,0,1,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,en
+2024-12-16 18:53:19+00:00,False,756719781839933440,"California Certifies It's 2024 Election Despite Huge Issues – It's NOT Certifiable https://t.co/cv0TTcrKUP #gatewaypundit via @gatewaypundit 
+Everybody knows they cheated but the Dems rigged it all so it is hard to prove. Isn't this sedition?","california certifies its 2024 election despite huge issues  its not certifiable  gatewaypundit via  
+everybody knows they cheated but the dems rigged it all so it is hard to prove isnt this sedition",-0.5234,negative,['1868731145510437340'],1868731145510437340,0,0,0,0,0,0,"[{'start': 126, 'end': 140, 'username': 'gatewaypundit', 'id': '19211550'}]",Karl Kramberger,,,KarlKramkj,False,35,['#gatewaypundit'],1,1,0,1,0,1,1,0,1,0,1.0,1.0,,1.0,,1,1,0,1,0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,en
+2025-02-15 23:21:16+00:00,False,745476175,The 2024 election was definitely rigged. https://t.co/vCODfpdSrn,the 2024 election was definitely rigged ,0.0516,positive,['1890904238512840844'],1890904238512840844,0,0,0,0,0,10,,Kristin Kirby,,,WriterKristin,False,7,[],1,0,0,1,0,1,0,0,1,0,1.0,0.0,0.0,1.0,0.0,1,0,0,1,0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,en
+2025-07-02T12:46:15.000Z,False,1720665183188922368,"@josheek11 @FoxNews The USA shows signs of a plutocratic oligarchy, with wealth significantly influencing policy. Studies, like one from 2014 by Gilens and Page, show elites and corporations shape outcomes, while ordinary citizens have little impact. The 2024 election highlighted billionaire",  the usa shows signs of a plutocratic oligarchy with wealth significantly influencing policy studies like one from 2014 by gilens and page show elites and corporations shape outcomes while ordinary citizens have little impact the 2024 election highlighted billionaire,0.6908,positive,['1940391567531131361'],1940391567531131361,0,0,0,0,0,10,"[{'start': 0, 'end': 10, 'username': 'josheek11', 'id': '1290700479043907584'}, {'start': 11, 'end': 19, 'username': 'FoxNews', 'id': '1367531'}]",Grok,wherever you are,,grok,True,41,[],0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2024-11-04 07:55:00+00:00,False,22127823,"Are users on X cashing in on US Election 2024 misinformation?
+
+Read more: https://t.co/LjTP1lDmct
+
+#SamaaTV @MAsimSiddique #USElection2024 https://t.co/SO2iUlg5AG","are users on x cashing in on us election 2024 misinformation
+
+read more 
+
+samaatv  uselection2024 ",-0.3182,negative,['1853345185381417350'],1853345185381417350,0,0,0,0,0,220,"[{'start': 108, 'end': 122, 'username': 'MAsimSiddique', 'id': '44095625'}]",SAMAA TV,Pakistan,,SAMAATV,False,18,"['#samaatv', '#uselection2024']",0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0,1,0,0,0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2025-03-12T12:56:26.000Z,False,1854619671980654592,The same polls had Harris winning the 2024 election! https://t.co/wyC5qiJAte,the same polls had harris winning the 2024 election ,0.5267,positive,['1899806690129727519'],1899806690129727519,0,0,0,0,0,2,,Pickaxe,"New York, USA",New York,DOTKOM1952,False,10,[],0,0,0,1,0,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,en
+2025-03-16T12:14:23.000Z,False,1886582976042938368,"@IBtalking Your gas prices were $2.09 before the 2024 election.  Yes, it's a fact under President Biden.  The short-term budget bill cuts $13 billion in non-defense spending, which is domestic spending in education, food &amp; drugs, and housing.", your gas prices were 209 before the 2024 election  yes its a fact under president biden  the shortterm budget bill cuts 13 billion in nondefense spending which is domestic spending in education food amp drugs and housing,0.128,positive,['1901245659463692676'],1901245659463692676,0,1,0,0,0,5,"[{'start': 0, 'end': 10, 'username': 'IBtalking', 'id': '22977419'}]",Medium Rare,"Virginia, USA",Virginia,MediumRare1967,False,38,[],0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,en
+2024-10-22 05:14:38+00:00,False,1038808555,Are you suffering from election anxiety? https://t.co/mXKCbDcFFA #Agent #Columns #Lifestyle #MarketsEconomy #Select https://t.co/VbcisGauIK,are you suffering from election anxiety  agent columns lifestyle marketseconomy select ,-0.5859,negative,['1848593787502924058'],1848593787502924058,0,0,0,0,0,0,,Dustin Peyser,United States,,DustinMPeyser,False,13,"['#agent', '#columns', '#lifestyle', '#marketseconomy', '#select']",0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2025-01-02 06:47:19+00:00,False,1254552107966959617,"@PentagonPresSec #Pentagon #A
+@Apple #Apple #A
+
+@WhiteHouse #WhiteHouse #A
+ @WhiteHouse45 #WhiteHouse45 #A
+  @ObamaWhiteHouse #WhiteHouse44 #A
+@PentagonPresSec #Pentagon #A
+@NASA #NASA #A
+@NintendoAmerica #Nintendo #A
+@Google #Google #A
+@Disney #Disney #A
+
+2024 Election Results https://t.co/xjKQoNiuHu"," pentagon a
+ apple a
+
+ whitehouse a
+  whitehouse45 a
+   whitehouse44 a
+ pentagon a
+ nasa a
+ nintendo a
+ google a
+ disney a
+
+2024 election results ",0.0,neutral,['1874709036140253563'],1874709036140253563,0,0,0,0,0,2,"[{'start': 0, 'end': 16, 'username': 'PentagonPresSec', 'id': '335996055'}, {'start': 30, 'end': 36, 'username': 'Apple', 'id': '380749300'}, {'start': 48, 'end': 59, 'username': 'WhiteHouse', 'id': '1323730225067339784'}, {'start': 76, 'end': 89, 'username': 'WhiteHouse45', 'id': '822215673812119553'}, {'start': 109, 'end': 125, 'username': 'ObamaWhiteHouse', 'id': '30313925'}, {'start': 143, 'end': 159, 'username': 'PentagonPresSec', 'id': '335996055'}, {'start': 173, 'end': 178, 'username': 'NASA', 'id': '11348282'}, {'start': 188, 'end': 204, 'username': 'NintendoAmerica', 'id': '5162861'}, {'start': 218, 'end': 225, 'username': 'Google', 'id': '20536157'}, {'start': 237, 'end': 244, 'username': 'Disney', 'id': '67418441'}]",CAPTAIN JOHN BINZ JAZER,,,UTOPIAAAAAXR,False,34,"['#pentagon', '#a', '#apple', '#a', '#whitehouse', '#a', '#whitehouse45', '#a', '#whitehouse44', '#a', '#pentagon', '#a', '#nasa', '#a', '#nintendo', '#a', '#google', '#a', '#disney', '#a']",0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0,1,0,1,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,en
+2024-10-29 13:01:05+00:00,False,233722442,"BITCOIN HEATS UP FOR BULLISH YEAR END
+ 
+BTC’s setting up for a massive finish to 2024.
+
+Options are building on the $80K target, with ETFs pulling in over $4B in just 12 days—$2.6B through BlackRock alone.
+
+Election season’s fueling a lot of this with risk appetite climbing,… https://t.co/qukio7PfyJ https://t.co/7afDP0oFu4","bitcoin heats up for bullish year end
+ 
+btcs setting up for a massive finish to 2024
+
+options are building on the 80k target with etfs pulling in over 4b in just 12 days26b through blackrock alone
+
+election seasons fueling a lot of this with risk appetite climbing  ",-0.4767,negative,['1851247888128741792'],1851247888128741792,0,0,2,0,0,16,,Crypto Town Hall,,,Crypto_TownHall,False,49,[],0,1,0,1,0,0,1,0,1,0,0.0,1.0,0.0,1.0,0.0,0,1,0,1,0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,en
+2025-02-11 12:39:40+00:00,False,1522930334630883328,"Blue States Plotted Their War Against Trump Three Days After the 2024 Election. Here's the Agreement. https://t.co/vRvIlXdteq 
+1/The anti-America knew before the election that the Fellatrix and the Fa* were going to go down, and that the American people it had assaulted every day","blue states plotted their war against trump three days after the 2024 election heres the agreement  
+1the antiamerica knew before the election that the fellatrix and the fa were going to go down and that the american people it had assaulted every day",-0.6249,negative,['1889293223052403187'],1889293223052403187,0,1,0,0,0,9,,miles e drake,"Columbus, Ohio",Ohio,medrakemd,False,44,[],1,1,0,1,0,1,1,1,1,0,1.0,1.0,1.0,1.0,0.0,1,1,1,1,0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,en
+2024-11-20 18:51:00+00:00,False,243800609,The Department of Political Science and the Center for the Study of American Democracy hosted a panel on Tuesday to discuss the potential ramifications of the recent U.S. election. Read more on our website. https://t.co/kWKwYhlrtC,the department of political science and the center for the study of american democracy hosted a panel on tuesday to discuss the potential ramifications of the recent us election read more on our website ,0.0,neutral,['1859308478923211104'],1859308478923211104,0,0,0,0,0,20,,The Kenyon Collegian,"Gambier, OH",Ohio,KenyonCollegian,False,35,[],0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2025-07-01T03:29:42.000Z,False,2539115219,"@StephenM We could have had a better Border Bill last year in 2024 but @Potus killed that to use as a campaign weapon to win the election. We didn't vote to be living in 1940's NAZI Germany with @ICEgov running around like the Gestapo🙏
+https://t.co/KLXY7gQX8Q https://t.co/XMAzC1Tgdf"," we could have had a better border bill last year in 2024 but  killed that to use as a campaign weapon to win the election we didnt vote to be living in 1940s nazi germany with  running around like the gestapo
+ ",0.09,positive,['1939889119305543889'],1939889119305543889,1,0,1,0,0,17,"[{'start': 0, 'end': 9, 'username': 'StephenM', 'id': '1329891389430243330'}, {'start': 71, 'end': 77, 'username': 'POTUS', 'id': '1879650942410481666'}, {'start': 195, 'end': 202, 'username': 'ICEgov', 'id': '39384517'}]",💖👑Crypto Queen Coco 👑💖,Europe to LA ,Louisiana,hautecoco66,False,46,[],0,1,0,1,0,0,1,0,1,0,0.0,1.0,1.0,1.0,0.0,1,1,0,1,0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,en
+2025-01-18 08:41:05+00:00,False,1677677327533375488,"@Sauronlordking vote genocide and mass migration instead.
+#Dutton #LNP 
+
+https://t.co/hoiQs68EIx
+
+https://t.co/FvyB3LWksa https://t.co/qlQyq1bld6"," vote genocide and mass migration instead
+dutton lnp 
+
+
+
+ ",0.0,neutral,['1880535873827270968'],1880535873827270968,0,0,0,0,0,4,"[{'start': 0, 'end': 15, 'username': 'Sauronlordking', 'id': '1491328539265990656'}]",qqqX111,ProNouns: dragonfly -_- @Grok,,qqqx111,False,12,"['#dutton', '#lnp']",0,1,1,0,0,0,1,1,0,0,0.0,0.0,1.0,0.0,0.0,0,1,0,0,1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,en
+2025-01-17 07:06:21+00:00,False,1957770224,"@JDunlap1974 You idiot
+
+That video was posted on TikTok in February 2024 for the primary election. It's not for the general election.
+
+You're pushing outrageous lies. https://t.co/GtpYBLtYDj"," you idiot
+
+that video was posted on tiktok in february 2024 for the primary election its not for the general election
+
+youre pushing outrageous lies ",-0.8442,negative,['1880149642954043662'],1880149642954043662,0,0,0,0,0,6,"[{'start': 0, 'end': 12, 'username': 'JDunlap1974', 'id': '1430605174674964480'}]","Montana, Joe",SF CAL,Alabama,HamRadioJoe,False,27,[],0,1,1,0,0,0,0,1,0,0,0.0,0.0,1.0,1.0,0.0,0,1,0,0,0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,en
+2024-11-27 12:57:32+00:00,False,1735092003313274880,"Yes I feel that a large amount of “God Rest Their Souls “ the victims of Covid voted for Trump in the Nov 5th,2024 election! https://t.co/wg2XHFTKQx",yes i feel that a large amount of god rest their souls  the victims of covid voted for trump in the nov 5th2024 election ,0.3612,positive,['1861756243809050988'],1861756243809050988,0,0,0,0,0,2,,B Harris,,,Harris15904Beth,False,26,[],0,1,0,1,0,1,0,0,1,1,1.0,0.0,0.0,1.0,0.0,1,0,0,1,0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,en
+2024-12-19 18:45:42+00:00,False,36726529,Prosecutor Fani Willis is removed from the Georgia election case against Trump and others https://t.co/OcQGGaNvup,prosecutor fani willis is removed from the georgia election case against trump and others ,0.0,neutral,['1869816393140514899'],1869816393140514899,0,1,0,0,0,45,,The Sun,"San Bernardino, CA",California,sbsun,False,15,[],0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2025-02-28 05:41:55+00:00,False,1768540440918433792,"@Puneetvizh @umashankarsingh Uncle stock market ka S bhi na pata tumko 
+
+Nifty life time high se 15% down
+
+4 june 2024 ke election ke result se abhi bhi upper","  uncle stock market ka s bhi na pata tumko 
+
+nifty life time high se 15 down
+
+4 june 2024 ke election ke result se abhi bhi upper",0.4019,positive,['1895348685606932546'],1895348685606932546,0,0,0,0,0,35,"[{'start': 0, 'end': 11, 'username': 'Puneetvizh', 'id': '2999494464'}, {'start': 12, 'end': 28, 'username': 'umashankarsingh', 'id': '73863773'}]",Freaking Rollins,"Moscow, Russia",,EquityChacha,False,29,[],0,0,0,1,0,0,0,0,1,0,0.0,0.0,0.0,1.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,en
+2025-02-22 00:58:56+00:00,False,522577303,@BasedMikeLee @DefiyantlyFree I wonder why? It was one of the states that moved blue the most in the 2024 election. Very concerning.,  i wonder why it was one of the states that moved blue the most in the 2024 election very concerning,0.0,neutral,['1893103143895834973'],1893103143895834973,0,0,1,0,0,4,"[{'start': 0, 'end': 13, 'username': 'BasedMikeLee', 'id': '1551266822460162051'}, {'start': 14, 'end': 29, 'username': 'DefiyantlyFree', 'id': '1560341081576939524'}]",B Husker,The Walls,,blittle47,False,22,[],0,0,0,1,0,0,0,0,1,0,1.0,0.0,0.0,1.0,0.0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,en
+2025-02-19 01:14:28+00:00,False,336828167,"@JBiemansj34267 @BenFordhamLive 👍COSTS reduced,butLNP obstructed transition&amp;failing PowerStns hv influenced retail
+NOTE:Abbott axing successfulCARBONvariablePRICE(NOT TAX)to ETS/NO EnergyBill,henceEnergyReg’sREPORTof HIKEDprices b4 2022 election. By now we shld be inMuch better position https://t.co/XTEoIJ5y19 https://t.co/ImjNXhvdzJ","  costs reducedbutlnp obstructed transitionampfailing powerstns hv influenced retail
+noteabbott axing successfulcarbonvariablepricenot taxto etsno energybillhenceenergyregsreportof hikedprices b4 2022 election by now we shld be inmuch better position  ",0.4404,positive,['1892019889981759946'],1892019889981759946,0,0,0,0,0,10,"[{'start': 0, 'end': 15, 'username': 'JBiemansj34267', 'id': '1758625099224346624'}, {'start': 16, 'end': 31, 'username': 'BenFordhamLive', 'id': '364696531'}]",💧☘️Rhona - Bluesky: rhonae,Far North Queensland,,bensab3,False,30,[],0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,en
+2025-03-10 12:38:25+00:00,False,1883567207369912320,"@LauraLoomer @marcorubio Elon Reeves Musk has been found involved in premeditated high-tech sophisticated organized criminal racketeering and hybrid terrorist activities against US government and it's citizens. 
+
+2024 election was influenced by criminal racketeering and hybrid terrorist activities","  elon reeves musk has been found involved in premeditated hightech sophisticated organized criminal racketeering and hybrid terrorist activities against us government and its citizens 
+
+2024 election was influenced by criminal racketeering and hybrid terrorist activities",-0.9274,negative,['1899077379869258206'],1899077379869258206,0,0,0,0,0,2,"[{'start': 0, 'end': 12, 'username': 'LauraLoomer', 'id': '537709549'}, {'start': 13, 'end': 24, 'username': 'marcorubio', 'id': '15745368'}]",CaliforniaCat.3,Los Angeles ,,3Californi40764,False,37,[],1,1,0,1,0,1,1,0,1,0,1.0,1.0,0.0,1.0,0.0,1,1,1,1,0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,en
+2024-11-14 05:38:18+00:00,False,756361644020797440,"As the election date of 20th November 2024 approaches for Maharashtra, the cVIGIL app ensures free and fair elections across India.
+
+@IndiaPostOffice @PIB_India @PIBMumbai @DDNewslive @airnewsalerts @JM_Scindia @PemmasaniOnX https://t.co/bfignwfSDR","as the election date of 20th november 2024 approaches for maharashtra the cvigil app ensures free and fair elections across india
+
+ _india    _scindia  ",0.6808,positive,['1856934661177709030'],1856934661177709030,0,1,0,0,0,15,"[{'start': 133, 'end': 149, 'username': 'IndiaPostOffice', 'id': '2579558348'}, {'start': 150, 'end': 160, 'username': 'PIB_India', 'id': '231033118'}, {'start': 161, 'end': 171, 'username': 'PIBMumbai', 'id': '309553876'}, {'start': 172, 'end': 183, 'username': 'DDNewslive', 'id': '1100927498'}, {'start': 184, 'end': 198, 'username': 'airnewsalerts', 'id': '1056850669'}, {'start': 199, 'end': 210, 'username': 'JM_Scindia', 'id': '2892809359'}, {'start': 211, 'end': 224, 'username': 'PemmasaniOnX', 'id': '1753418352125685761'}]",Maharashtra Postal Circle,"Maharashtra, India",,cpmgmaharashtra,True,29,[],0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2024-10-24 12:54:09+00:00,False,1711507085165219841,"@MaizenBrew THE 2024 ELECTION IS over!! 
+
+TRUMP WINS!!
+
+HEAD LETTUCE WORD SALAD @KamalaHarris  @Tim_Walz  IS DONE destroyed finito GONE........
+
+#2Big2Rig!!
+#Trump2024!!
+@realDonaldTrump 
+@JDVance 
+@MELANIATRUMP https://t.co/Z6ml4rJgyo"," the 2024 election is over 
+
+trump wins
+
+head lettuce word salad   _walz  is done destroyed finito gone
+
+2big2rig
+trump2024
+ 
+ 
+ ",0.128,positive,['1849434203961573704'],1849434203961573704,0,0,0,0,0,1,"[{'start': 0, 'end': 11, 'username': 'MaizenBrew', 'id': '29374457'}, {'start': 80, 'end': 93, 'username': 'KamalaHarris', 'id': '30354991'}, {'start': 95, 'end': 104, 'username': 'Tim_Walz', 'id': '85726335'}, {'start': 170, 'end': 186, 'username': 'realDonaldTrump', 'id': '25073877'}, {'start': 188, 'end': 196, 'username': 'JDVance', 'id': '1542228578'}, {'start': 198, 'end': 211, 'username': 'MELANIATRUMP', 'id': '108471631'}]",EXPOSING: UMs CHEATING PEDOPHILE PATHOLOGICAL LIES,Worldwide,,Chaplaindo70398,False,25,"['#2big2rig', '#trump2024']",1,1,0,1,0,0,1,0,1,0,1.0,1.0,0.0,1.0,0.0,1,1,0,1,0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,en
+2025-02-28 12:07:51+00:00,False,1046168624040300545,"@LizaRosen0000 And yet, in the USA: Election 2024: 67% of Jews voted for the anti-Israel party. I will never understand this. Shocking Gallup Poll shows 60% of Dems are anti-Israel.
+WAKE TF UP ALREADY!
+https://t.co/WkjIGH9miJ"," and yet in the usa election 2024 67 of jews voted for the antiisrael party i will never understand this shocking gallup poll shows 60 of dems are antiisrael
+wake tf up already
+",-0.1091,negative,['1895445810235756693'],1895445810235756693,0,0,0,0,0,0,"[{'start': 0, 'end': 14, 'username': 'LizaRosen0000', 'id': '1129279740068737024'}]",Jersay Peet,,,JersayPeet,False,35,[],0,1,1,1,0,0,1,0,1,0,0.0,1.0,1.0,1.0,0.0,0,1,0,1,0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,en
+2024-11-02 01:00:20+00:00,False,1747355642954706945,@4Mischief Out of shape cop wearing a mask????? It is 2024 right? This is the guy that shows up at your house in 2020 because you have a couple to many family members in your house on Thanksgiving.  Called in by the Karen who is prolly the DNC election worker who called in this, out of shape cop wearing a mask it is 2024 right this is the guy that shows up at your house in 2020 because you have a couple to many family members in your house on thanksgiving  called in by the karen who is prolly the dnc election worker who called in this,0.0,neutral,['1852516055186387226'],1852516055186387226,0,0,0,0,0,0,"[{'start': 0, 'end': 10, 'username': '4Mischief', 'id': '450235955'}]",Bezmenov,"Lowell, MA",Massachusetts,URIB1984,False,54,[],0,1,0,1,0,0,1,0,0,0,1.0,0.0,1.0,1.0,0.0,1,0,0,1,0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,en
+2025-03-24T02:04:41.000Z,False,1598414276028407823,"Why are  @JasmineForUS @aoc @SenSanders @SenWarren and remaining @TheDemocrats
+
+SCARED TO STAND UP TO @realDonaldTrump
+and call out the VOTE MANIPULATION used by @GOP to 'win' the 2024 election?
+
+Demand a FORENSIC AUDIT and REVERSE HITLER #47
+
+https://t.co/bgD8U7ivLq https://t.co/lMTD4olwJg https://t.co/Jf3fjKFBhu","why are      and remaining 
+
+scared to stand up to 
+and call out the vote manipulation used by  to win the 2024 election
+
+demand a forensic audit and reverse hitler 47
+
+  ",-0.2023,negative,['1903991327596912730'],1903991327596912730,0,0,0,0,0,1,"[{'start': 9, 'end': 22, 'username': 'JasmineForUS', 'id': '918913624395079680'}, {'start': 23, 'end': 27, 'username': 'AOC', 'id': '138203134'}, {'start': 28, 'end': 39, 'username': 'SenSanders', 'id': '29442313'}, {'start': 40, 'end': 50, 'username': 'SenWarren', 'id': '970207298'}, {'start': 65, 'end': 78, 'username': 'TheDemocrats', 'id': '14377605'}, {'start': 102, 'end': 118, 'username': 'realDonaldTrump', 'id': '25073877'}, {'start': 162, 'end': 166, 'username': 'GOP', 'id': '11134252'}]",Jai,,,the2ndQT,False,40,['#47'],1,1,0,1,0,1,1,0,1,0,1.0,1.0,1.0,1.0,0.0,1,1,1,1,0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,en
+2024-11-10 05:44:04+00:00,False,1820205848393887744,"@JakeGagain BigTrump Coin: Where Donald Trump meets Kodak Black in one epic meme coin! Ready for 2024's Election Day bull market? 
+@bigtrumpsol $BIGT https://t.co/LsyxPZng6y"," bigtrump coin where donald trump meets kodak black in one epic meme coin ready for 2024s election day bull market 
+ bigt ",0.3612,positive,['1855486564048007464'],1855486564048007464,0,0,0,0,0,1,"[{'start': 0, 'end': 11, 'username': 'JakeGagain', 'id': '1355014327988707329'}]",THE_CHRISTIANO,,,Christiano48745,False,24,[],0,1,0,0,1,0,0,0,0,1,0.0,1.0,0.0,0.0,1.0,0,1,0,1,0,0.0,1.0,0.0,1.0,1.0,,,,,,en
+2025-03-12T17:30:07.000Z,False,22800547,"@GovTimWalz Donald Drumpf did NOT win the 2024 election and now we have definitive proof thanks to https://t.co/nB9OaDhrPx. Once their multi-state investigation is complete, the findings will be made public. https://t.co/SB4xTe22q8", donald drumpf did not win the 2024 election and now we have definitive proof thanks to  once their multistate investigation is complete the findings will be made public ,-0.0444,neutral,['1899875565483467070'],1899875565483467070,0,0,0,0,0,1,"[{'start': 0, 'end': 11, 'username': 'GovTimWalz', 'id': '1064603540956565504'}]",Cheshire Squire,,,Enkidu40,False,31,[],1,0,0,1,0,0,0,0,1,0,1.0,0.0,0.0,1.0,0.0,0,0,0,0,1,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,en
+2024-12-12 04:22:05+00:00,False,1280765325886107648,"@DanfossDrives’ Hannes Leichtfried has been elected to serve on the National Electrical Manufacturers Association’s (#NEMA) Board of Governors.
+
+NEMA announced the election of three new board members and three new officers on November 13, following its 2024 Annual Meeting.… https://t.co/ntgNnBXQ3M https://t.co/XrT0A3Wgrf"," hannes leichtfried has been elected to serve on the national electrical manufacturers associations nema board of governors
+
+nema announced the election of three new board members and three new officers on november 13 following its 2024 annual meeting  ",0.0,neutral,['1867062341487169946'],1867062341487169946,0,0,0,0,0,3,"[{'start': 0, 'end': 14, 'username': 'DanfossDrives', 'id': '134907784'}]",JARN,"Tokyo-to, Japan",,JARNmagazine,False,41,['#nema'],0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2025-03-01 23:50:20+00:00,False,3436752761,"@SenMarkKelly Putin/Musk used it 2024 election now bills are due
+""The election campaign is over,"" Patrushev noted. ""To achieve success in the election, Donald Trump relied on certain forces to which he has corresponding obligations. As a responsible person, he will be obliged to fulfill them."""," putinmusk used it 2024 election now bills are due
+the election campaign is over patrushev noted to achieve success in the election donald trump relied on certain forces to which he has corresponding obligations as a responsible person he will be obliged to fulfill them",0.875,positive,['1895984984693113205'],1895984984693113205,0,0,0,0,0,2,"[{'start': 0, 'end': 13, 'username': 'SenMarkKelly', 'id': '1324926274888888320'}]",Mary Miller🇺🇸🦅💙💙,,,eaglzfan1967,False,46,[],1,0,0,1,0,1,0,0,1,0,1.0,0.0,0.0,1.0,0.0,1,1,0,1,0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,en
+2025-01-07 01:00:09+00:00,False,24959025,"Former Vice President Mike Pence said Monday it was ""admirable"" current Vice President Kamala Harris presided over the certification of the results of the November presidential election, which she lost.
+https://t.co/3DPZFJl7xl","former vice president mike pence said monday it was admirable current vice president kamala harris presided over the certification of the results of the november presidential election which she lost
+",0.3182,positive,['1876433608191193158'],1876433608191193158,0,0,0,0,0,11,,BakersfieldNow,"Bakersfield, California",California,bakersfieldnow,False,31,[],0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2024-12-02 00:54:29+00:00,False,1830252022458732545,Pop Culture Pulse: NDC's Final Push in Ashanti Region for 2024 Election https://t.co/URTdSVyZ9t,pop culture pulse ndcs final push in ashanti region for 2024 election ,0.0,neutral,['1863386221059191173'],1863386221059191173,0,0,0,0,0,1,,GHObiri Entertainment,Accra,,GhobiriEnt,False,13,[],0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2025-06-18T12:51:22.000Z,False,1590952734437490688,"@SidneyPowell1 I believe foreign interference in the U.S. elections has not been limited to 2020 and likely extended to 2024. I suspect China played a significant role in influencing the 2024 election outcomes. Some down-ballot race results, such as those for Ruben Gallego, seem questionable to", i believe foreign interference in the us elections has not been limited to 2020 and likely extended to 2024 i suspect china played a significant role in influencing the 2024 election outcomes some downballot race results such as those for ruben gallego seem questionable to,0.1195,positive,['1935319424925601831'],1935319424925601831,0,1,1,0,0,7,"[{'start': 0, 'end': 14, 'username': 'SidneyPowell1', 'id': '586707638'}]",James W,,,Tankerboom10,False,46,[],1,0,0,1,0,1,0,0,1,0,1.0,0.0,0.0,1.0,0.0,1,0,0,1,0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,en
+2025-01-18 13:39:28+00:00,False,1620769253023440896,"Election 2024: Akufo-Addo's actions and some policies caused Bawumia's defeat - Dr Ayew Afriyie
+
+https://t.co/dH1itZrzJF https://t.co/zBLqKu4cBe","election 2024 akufoaddos actions and some policies caused bawumias defeat  dr ayew afriyie
+
+ ",-0.4588,negative,['1880610962115580349'],1880610962115580349,0,0,0,0,0,6,,The Announcer GH,Ghana,,theannouncer_gh,False,16,[],0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,en
+2024-11-16 05:02:59+00:00,False,52788659,"🗳️ Maharashtra Assembly Election 2024
+
+🚨 Breaking Records! 🚺✨
+
+In the Maharashtra Assembly Election 2024, a record 363 WOMEN CANDIDATES are contesting! 💪🎉
+
+📊 Women Candidates
+2024: 363 🚺✨
+2019: 239
+2014: 277
+2009: 211
+2004: 157
+1999: 086
+1995: 247
+1990: 147
+1985: 83
+1980:… https://t.co/4oSFg3DPef https://t.co/lDfj8ywugB"," maharashtra assembly election 2024
+
+ breaking records 
+
+in the maharashtra assembly election 2024 a record 363 women candidates are contesting 
+
+ women candidates
+2024 363 
+2019 239
+2014 277
+2009 211
+2004 157
+1999 086
+1995 247
+1990 147
+1985 83
+1980  ",0.0,neutral,['1857650549358997631'],1857650549358997631,5,2,11,0,1,1727,,karan darda,Aurangabad (Maharashtra),,karandarda,False,48,[],0,1,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,en
+2024-11-24 18:45:55+00:00,False,569767960,"Congratulatory Visit to Our Beloved MLA and Leader @Dev_Fadnavis ji on his massive winning in Maharashtra Assembly Election, 2024 https://t.co/NWO3wpl7lv",congratulatory visit to our beloved mla and leader _fadnavis ji on his massive winning in maharashtra assembly election 2024 ,0.7717,positive,['1860756753044185294'],1860756753044185294,0,0,0,0,0,15,"[{'start': 51, 'end': 64, 'username': 'Dev_Fadnavis', 'id': '137780376'}]",Adv. Vipin Lute,"Nagpur, India",,Adv_Vipin_Lute,False,20,[],0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2025-05-12T06:20:48.000Z,False,1558306539542577152,"@AdityaRajKaul @narendramodi @rajnathsingh Ab bhi meeting meeting khel raha hey...All Godi media and bhakts are trying to rescue @narendramodi ji from total embarrassment. After 2024 election results, Modi was in ICU and now after Ceasefire with Pakistan, Modi is in Brain dead situation. By the revenge Kab milega???? https://t.co/dQAv837Apl",   ab bhi meeting meeting khel raha heyall godi media and bhakts are trying to rescue  ji from total embarrassment after 2024 election results modi was in icu and now after ceasefire with pakistan modi is in brain dead situation by the revenge kab milega ,-0.8221,negative,['1921812786851524740'],1921812786851524740,1,0,0,0,0,44,"[{'start': 0, 'end': 14, 'username': 'AdityaRajKaul', 'id': '44425241'}, {'start': 15, 'end': 28, 'username': 'narendramodi', 'id': '18839785'}, {'start': 29, 'end': 42, 'username': 'rajnathsingh', 'id': '1346439824'}, {'start': 129, 'end': 142, 'username': 'narendramodi', 'id': '18839785'}]",Rana Dev Rajbanshi,,,RanaDevRajbans1,False,49,[],0,1,0,1,0,0,1,1,1,0,0.0,1.0,0.0,1.0,1.0,0,1,0,1,0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,en
+2025-02-12 01:43:01+00:00,False,1767764294031003648,"@Bubblebathgirl This Supreme Court?
+Federal Grand Jury indict Trump 2022-2024
+""After losing election,Trump conspired to spread falseclaims of election fraud, to obstruct election""
+Trump Supreme Court Judges 
+President has absoluteimmunity from CRIMINAL prosecution
+https://t.co/Hud2Z5mlHG https://t.co/GXwDfbgaoE"," this supreme court
+federal grand jury indict trump 20222024
+after losing electiontrump conspired to spread falseclaims of election fraud to obstruct election
+trump supreme court judges 
+president has absoluteimmunity from criminal prosecution
+ ",-0.4215,negative,['1889490360058904791'],1889490360058904791,0,0,0,0,0,0,"[{'start': 0, 'end': 15, 'username': 'Bubblebathgirl', 'id': '32804484'}]",(((Jess Naomi🎗️ Jewish))) 🏳️‍⚧️GenderQueer🏳️‍🌈,,,jess_naomi82851,False,37,[],1,0,0,1,0,1,0,0,1,0,1.0,0.0,0.0,1.0,0.0,0,0,0,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,en
+2025-05-08T07:45:34.000Z,False,1322239543,"🗳 The Aftermath of #lgpolls2025 : The @sjbsrilanka (SJB), @PodujanaParty (SLPP) , @ITAKOrg (ITAK) and @SarvajanaBalaya (SB) increased their vote share at the national level, compared against the results of the 2024 General Election.
+ 
+🔗See all the analysis, by the numbers, on https://t.co/BvhqZBeFop"," the aftermath of lgpolls2025  the  sjb  slpp   itak and  sb increased their vote share at the national level compared against the results of the 2024 general election
+ 
+see all the analysis by the numbers on ",0.5106,positive,['1920384566520656189'],1920384566520656189,0,1,0,0,0,153,"[{'start': 38, 'end': 50, 'username': 'sjbsrilanka', 'id': '1226790840812605440'}, {'start': 58, 'end': 72, 'username': 'PodujanaParty', 'id': '1041270939353141248'}, {'start': 82, 'end': 90, 'username': 'ITAKOrg', 'id': '1362658814705627137'}, {'start': 102, 'end': 118, 'username': 'SarvajanaBalaya', 'id': '1715268152085635072'}]",ManthriLK,Colombo,,ManthriLK,False,43,['#lgpolls2025'],0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2025-02-07 10:26:52+00:00,False,1795177416614199296,"@julia__gilmoree @JarrodRodrigue1 @McWe @morewingspls I was off by 1%, regardless it's still 92%. NBC page for 2024 election data
+
+Cross reference with the CDC's obesity data https://t.co/4DaWm2Myk7","__gilmoree    i was off by 1 regardless its still 92 nbc page for 2024 election data
+
+cross reference with the cdcs obesity data ",0.0,neutral,['1887810252478796179'],1887810252478796179,0,1,1,0,0,20,"[{'start': 0, 'end': 16, 'username': 'julia__gilmoree', 'id': '1869066378059137024'}, {'start': 17, 'end': 33, 'username': 'JarrodRodrigue1', 'id': '1268678314207711233'}, {'start': 34, 'end': 39, 'username': 'McWe', 'id': '52290278'}, {'start': 40, 'end': 53, 'username': 'morewingspls', 'id': '1214282184837623808'}]",Mimi 🇺🇸,,,Mimikyuse,False,27,[],0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1,1,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,en
+2024-11-02 20:00:01+00:00,False,182503471,"Russia was behind second fake video spreading false voter fraud claims, U.S. officials say https://t.co/r9zrfUiBUN https://t.co/pLyTAe2LqL",russia was behind second fake video spreading false voter fraud claims us officials say  ,-0.7845,negative,['1852802864663392429'],1852802864663392429,4,0,7,0,0,150,,The Last Word,📺 10PM ET on MSNBC,Mississippi,TheLastWord,True,16,[],1,0,0,1,0,1,0,0,1,0,1.0,0.0,0.0,1.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2025-03-04 18:45:59+00:00,False,1401673830523883521,"@TheVikingDane Trudeau had 30 days to address it, and actually knew about it since   the election in November, 2024… Today’s performance was more a bad Zelensky impression than anything - but will be every bit as effective….", trudeau had 30 days to address it and actually knew about it since   the election in november 2024 todays performance was more a bad zelensky impression than anything  but will be every bit as effective,0.4957,positive,['1896995556968554680'],1896995556968554680,0,0,1,0,0,14,"[{'start': 0, 'end': 14, 'username': 'TheVikingDane', 'id': '1480091258395803655'}]",MaryAnne,,,Carroll18537862,False,37,[],0,1,0,1,0,0,0,0,1,1,0.0,0.0,0.0,1.0,1.0,0,0,0,1,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,en
+2025-07-16T12:26:22.000Z,False,27160295,"Amnesty International said in its report Detentions without a trace: The crime of enforced disappearance in Venezuela, which analyses the situation of 15 individuals forcibly disappeared between the presidential election of 28 July 2024 and 15 June 2025.  https://t.co/3q645TbvaC",amnesty international said in its report detentions without a trace the crime of enforced disappearance in venezuela which analyses the situation of 15 individuals forcibly disappeared between the presidential election of 28 july 2024 and 15 june 2025  ,-0.6597,negative,['1945459994737930374'],1945459994737930374,1,0,1,0,0,64,,Christopher Sabatini,London and New York City,New York,ChrisSabatini,False,39,[],0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2025-05-01T11:35:27.000Z,False,140761770,@snowleopardess @Anniepop2027 It was a Tory bill &amp; was held up in Parliament because of the 2024 election.,  it was a tory bill amp was held up in parliament because of the 2024 election,0.0,neutral,['1917905705043997110'],1917905705043997110,0,0,0,0,0,20,"[{'start': 0, 'end': 15, 'username': 'snowleopardess', 'id': '21891765'}, {'start': 16, 'end': 29, 'username': 'Anniepop2027', 'id': '2943643384'}]",Lady Irene Garth 🐟🔶#FBPE/#PR/#PA #Woke,England,,irenegarth1946,False,18,[],0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,en
+2024-11-15 01:01:26+00:00,False,17070689,Social media platform Bluesky has seen a boom in new accounts since Election Day. Here's what to know. https://t.co/AZmkrnujqh,social media platform bluesky has seen a boom in new accounts since election day heres what to know ,0.0,neutral,['1857227374695243877'],1857227374695243877,0,0,0,0,0,0,,Daily News Journal,"Murfreesboro, TN",Tennessee,dnj_com,False,19,[],0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2024-12-09 03:09:08+00:00,False,1549160770126094338,"Every county in NM violated the election code in 2024. 
+Every county.
+And SOS Oliver.
+The receipts:
+👇👇👇 https://t.co/qRV4IEWtWu","every county in nm violated the election code in 2024 
+every county
+and sos oliver
+the receipts
+ ",-0.5267,negative,['1865956819149140213'],1865956819149140213,16,1,26,0,0,247,,Auntie Barnes,"New Mexico, USA",New Mexico,AuntieBarnes,False,19,[],1,0,0,1,0,1,1,0,1,0,1.0,0.0,0.0,1.0,0.0,1,1,0,1,0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,en
+2025-06-23T12:27:22.000Z,False,1627812733436456961,@TuckerCNews No. But Elon bought the 2024 election., no but elon bought the 2024 election,-0.1531,negative,['1937125327534428318'],1937125327534428318,0,0,1,0,0,12,"[{'start': 0, 'end': 12, 'username': 'TuckerCNews', 'id': '1786888809667538944'}]",Penelopedidit2,"Arkansas, USA",Arkansas,penelopedidit2,False,8,[],1,0,0,1,0,1,0,0,1,0,1.0,0.0,0.0,1.0,0.0,1,1,0,1,0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,en
+2025-01-24 20:53:42+00:00,False,1790771337172316160,"January 24, 2025:
+
+Why is Grok the only one that can answer this question correctly?
+
+""When is the next Election for President in the United States?""
+
+Google 2025
+ChatGPT 2024
+Grok 2028
+
+@elonmusk @Google @ChatGPTapp https://t.co/qqGvckjspv","january 24 2025
+
+why is grok the only one that can answer this question correctly
+
+when is the next election for president in the united states
+
+google 2025
+chatgpt 2024
+grok 2028
+
+   ",0.4215,positive,['1882894569710514256'],1882894569710514256,0,0,0,0,0,7,"[{'start': 187, 'end': 196, 'username': 'elonmusk', 'id': '44196397'}, {'start': 197, 'end': 204, 'username': 'Google', 'id': '20536157'}, {'start': 205, 'end': 216, 'username': 'ChatGPTapp', 'id': '1714438092655149056'}]",Kevin M Klerks 🇨🇦,"Red Deer, Alberta, Canada",,KlerksKevinM,False,36,[],0,0,0,0,1,0,0,0,0,1,0.0,0.0,0.0,1.0,0.0,0,1,0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,en
+2024-11-23 06:01:27+00:00,False,36327407,"#ElectionsWithHT | As per trends, #AdityaThackeray, the son of Shiv Sena (UBT) chief #UddhavThackeray, is leading in the Worli  
+
+Counting of votes underway 
+
+Track LIVE updates here: https://t.co/4hHbt9oe9z
+
+#MaharashtraElections #ElectionStories https://t.co/oZYzyqr0K6","electionswithht  as per trends adityathackeray the son of shiv sena ubt chief uddhavthackeray is leading in the worli  
+
+counting of votes underway 
+
+track live updates here 
+
+maharashtraelections electionstories ",0.0,neutral,['1860201981480173855'],1860201981480173855,0,0,0,0,0,12,,Hindustan Times,India,,htTweets,True,31,"['#electionswithht', '#adityathackeray', '#uddhavthackeray', '#maharashtraelections', '#electionstories']",0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2025-06-24T12:20:08.000Z,False,1679626728078036993,@_oRyca_ @atrupar A must read:  Great book about the lawless law-fare of President Trump. This book talks about all the trials before the 2024 election. https://t.co/Q7UATkgbmD,_oryca_  a must read  great book about the lawless lawfare of president trump this book talks about all the trials before the 2024 election ,0.6249,positive,['1937485894438551886'],1937485894438551886,0,0,0,0,0,0,"[{'start': 0, 'end': 8, 'username': '_oRyca_', 'id': '374574559'}, {'start': 9, 'end': 17, 'username': 'atrupar', 'id': '288277167'}]",Gesabell,,,GailRiss97385,False,26,[],0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0,1,0,1,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,en
+2025-06-11T07:50:28.000Z,False,376785441,The selection of Bawumia to lead the NPP in election 2024 was a mistake that the NPP can’t afford to repeat in 2028. https://t.co/4OAtMQWVDB,the selection of bawumia to lead the npp in election 2024 was a mistake that the npp cant afford to repeat in 2028 ,-0.34,negative,"['1932706988884209907', '1932708311654113320']",1932706988884209907,0,0,0,0,0,181,,Chris Atadika,,,chrisatadika,False,24,[],0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,1.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,en
