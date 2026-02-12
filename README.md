@@ -13,8 +13,10 @@ If you use this dataset in your research, please cite:
 *TBD*
 
 
- # 📄 [U.S_Election_2024_Xcom_Dataset.csv)](U.S_Election_2024_Xcom_Dataset.csv)
+ # 📄 [U.S_Election_2024_Xcom_Dataset.csv](U.S_Election_2024_Xcom_Dataset.csv)
 
+
+### 👉 [Check out sample dataset](U.S_Election_2024_Xcom_Dataset_Sample100.csv)
 
 ## Text Content
 - `id` — Unique identifier for the post  
