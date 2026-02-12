@@ -86,6 +86,9 @@ frequencies of each label
 
 Each model predicts whether a post belongs to one or more of five categories: **Conspiracy, Sensationalism, Hate Speech, Speculation, Satire**. Columns are binary indicators (`1 = present`, `0 = absent`).
 
+### 👉 [Check out sample dataset](Intermediary/LLM_Individual_Annotation_Sample100.csv)
+
+
 - `id` — Unique identifier for the post  
 
 ### GPT-4o Mini
