@@ -6,18 +6,17 @@ Each post is annotated with five harmful content multi-labels generated using an
 ![plot](Figures/overall_flow.jpg)
 *Figure 1. Overall workflow of the USE24-XD annotation pipeline.*
 
----
+
 ## Citation
 If you use this dataset in your research, please cite:
 
 *TBD*
 
----
+
  # 📄 [U.S_Election_2024_Xcom_Dataset.csv)](U.S_Election_2024_Xcom_Dataset.csv)
 
 
 ## Text Content
-
 - `id` — Unique identifier for the post  
 - `created_at` — Timestamp when the post was created  
 - `text` — Raw post text  
@@ -26,10 +25,8 @@ If you use this dataset in your research, please cite:
 - `hashtags` — Extracted hashtags  
 - `entities.mentions` — User mentions within the post  
 
----
 
 ## Metadata
-
 - `author_id` — Unique identifier for the author  
 - `username` — [Redacted for privacy reasons]  
 - `name` — Display name of the author  
@@ -38,14 +35,13 @@ If you use this dataset in your research, please cite:
 - `lang` — Detected language  
 - `edit_history_tweet_ids` — Edit history identifiers  
 
----
 
 ## Location Information
 
 - `user_location` — Free-text self-reported location  
 - `user_location_USA_state` — Parsed U.S. state when identifiable  
 
----
+
 
 ## Engagement Metrics
 
@@ -56,14 +52,14 @@ If you use this dataset in your research, please cite:
 - `public_metrics.bookmark_count` — Number of Bookmarks  
 - `public_metrics.impression_count` — Number of Impressions  
 
----
+
 
 ## Sentiment Analysis
 
 - `sentiment_vader_raw` — Continuous VADER sentiment score  
 - `sentiment_vader_label` — Categorical sentiment label (`positive`, `neutral`, `negative`)  
 
----
+
 
 ## LLM-Based Annotations
 
@@ -79,7 +75,7 @@ Using a wisdom-of-the-crowd aggregation approach that combines the best-performi
 *Figure 2. Distribution of multi-label annotations across five harmful content categories with intersection sizes and marginal
 frequencies of each label
 
----
+
 
 # Intermediary Data Files
 
@@ -132,8 +128,6 @@ Each model predicts whether a post belongs to one or more of five categories: **
 - `Speculation_llama3.3`
 - `Satire_llama3.3`
 
----
-
 
 
 ## 📄 [Human_Annotation_Subset.csv](Intermediary/Human_Annotation_Subset.csv)
@@ -156,15 +150,12 @@ Individual annotations:
 - `sensationalism1`, `sensationalism2`, `sensationalism3`
 - `speculation1`, `speculation2`, `speculation3`
 
----
-
 ## Notes and Limitations
 
 - Data were collected using the **basic-tier streaming API**  
 - Geographic analysis should be interpreted cautiously because locations are **self-reported**  
 - For questions, contact: **kylewang@udel.edu**
 
----
 
 ## License
 
