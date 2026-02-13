@@ -6,12 +6,23 @@ Each post is annotated with five harmful content multi-labels generated using an
 ![plot](Figures/overall_flow.jpg)
 *Figure 1. Overall workflow of the USE24-XD annotation pipeline.*
 
+👉 This dataset is introduced and described in the paper  [https://arxiv.org/abs/2602.11962](https://arxiv.org/abs/2602.11962), which outlines the data collection process, annotation methodology, and evaluation details.
+
 
 ## Citation
-If you use this dataset in your research, please cite:
+If you use this dataset or build upon it in your research, please cite the following paper:
 
-*TBD*
-
+```bibtex
+@misc{wang2026wisdomllmcrowdlarge,
+      title={Wisdom of the LLM Crowd: A Large Scale Benchmark of Multi-Label U.S. Election-Related Harmful Social Media Content}, 
+      author={Qile Wang and Prerana Khatiwada and Carolina Coimbra Vieira and Benjamin E. Bagozzi and Kenneth E. Barner and Matthew Louis Mauriello},
+      year={2026},
+      eprint={2602.11962},
+      archivePrefix={arXiv},
+      primaryClass={cs.HC},
+      url={https://arxiv.org/abs/2602.11962}, 
+}
+```
 
  # 📄 [U.S_Election_2024_Xcom_Dataset.csv](U.S_Election_2024_Xcom_Dataset.csv)
 
