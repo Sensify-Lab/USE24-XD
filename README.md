@@ -4,7 +4,7 @@ This dataset comprises nearly **100,000** public posts from X.com (formerly Twit
 Each post is annotated with five harmful content multi-labels generated using an ensemble of six large language models (LLMs). A subset of posts was also evaluated by human annotators to support validation and comparison.
 
 ![plot](Figures/overall_flow.jpg)
-*Figure 1. Overall workflow of the USE24-XD annotation pipeline.*
+*Figure 1. Overall workflow of the USE24-XD annotation pipeline*.
 
 👉 This dataset is introduced and described in the paper  [https://arxiv.org/abs/2602.11962](https://arxiv.org/abs/2602.11962), which outlines the data collection process, annotation methodology, and evaluation details.
 
@@ -12,22 +12,21 @@ Each post is annotated with five harmful content multi-labels generated using an
 ## Citation
 If you use this dataset or build upon it in your research, please cite the following paper:
 
+Wang, Q., Khatiwada, P., Vieira, C. C., Bagozzi, B. E., Barner, K. E., & Mauriello, M. L. (2026). *Wisdom of the LLM Crowd: A Large Scale Benchmark of Multi-Label US Election-Related Harmful Social Media Content*. arXiv preprint arXiv:2602.11962.
+
 ```bibtex
-@misc{wang2026wisdomllmcrowdlarge,
-      title={Wisdom of the LLM Crowd: A Large Scale Benchmark of Multi-Label U.S. Election-Related Harmful Social Media Content}, 
-      author={Qile Wang and Prerana Khatiwada and Carolina Coimbra Vieira and Benjamin E. Bagozzi and Kenneth E. Barner and Matthew Louis Mauriello},
-      year={2026},
-      eprint={2602.11962},
-      archivePrefix={arXiv},
-      primaryClass={cs.HC},
-      url={https://arxiv.org/abs/2602.11962}, 
+@article{wang2026wisdom,
+  title={Wisdom of the LLM Crowd: A Large Scale Benchmark of Multi-Label US Election-Related Harmful Social Media Content},
+  author={Wang, Qile and Khatiwada, Prerana and Vieira, Carolina Coimbra and Bagozzi, Benjamin E and Barner, Kenneth E and Mauriello, Matthew Louis},
+  journal={arXiv preprint arXiv:2602.11962},
+  year={2026}
 }
 ```
 
  # 📄 [U.S_Election_2024_Xcom_Dataset.csv](U.S_Election_2024_Xcom_Dataset.csv)
 
 
-### 👉 [Check out sample dataset](U.S_Election_2024_Xcom_Dataset_Sample100.csv)
+### 👉 Checkout preview: [U.S_Election_2024_Xcom_Dataset_Sample100.csv](U.S_Election_2024_Xcom_Dataset_Sample100.csv)
 
 ## Text Content
 - `id` — Unique identifier for the post  
@@ -97,7 +96,7 @@ frequencies of each label
 
 Each model predicts whether a post belongs to one or more of five categories: **Conspiracy, Sensationalism, Hate Speech, Speculation, Satire**. Columns are binary indicators (`1 = present`, `0 = absent`).
 
-### 👉 [Check out sample dataset](Intermediary/LLM_Individual_Annotation_Sample100.csv)
+### 🔎 Checkout preview: [LLM_Individual_Annotation_Sample100](Intermediary/LLM_Individual_Annotation_Sample100.csv)
 
 
 - `id` — Unique identifier for the post  
