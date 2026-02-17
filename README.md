@@ -84,8 +84,7 @@ Using a wisdom-of-the-crowd aggregation approach that combines the best-performi
 - `Satire` 
 
 ![plot](Figures/concurrent_labels.jpg)
-*Figure 2. Distribution of multi-label annotations across five harmful content categories with intersection sizes and marginal
-frequencies of each label
+*Figure 2. Distribution of multi-label annotations across five harmful content categories with intersection sizes and marginal frequencies of each label*.
 
 
 
@@ -96,7 +95,7 @@ frequencies of each label
 
 Each model predicts whether a post belongs to one or more of five categories: **Conspiracy, Sensationalism, Hate Speech, Speculation, Satire**. Columns are binary indicators (`1 = present`, `0 = absent`).
 
-### 🔎 Checkout preview: [LLM_Individual_Annotation_Sample100](Intermediary/LLM_Individual_Annotation_Sample100.csv)
+### 🔎 Checkout preview: [LLM_Individual_Annotation_Sample100.csv](Intermediary/LLM_Individual_Annotation_Sample100.csv)
 
 
 - `id` — Unique identifier for the post  
