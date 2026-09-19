@@ -1,8 +1,9 @@
 # U.S. Election 2024 X.com Dataset (USE24-XD)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2602.11962-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2602.11962)
-[![Zenodo](https://img.shields.io/badge/Zenodo-21970648-1682D4?logo=zenodo&logoColor=white)](https://zenodo.org/records/21970648)
+[![Zenodo](https://img.shields.io/badge/Zenodo-21970648-1682D4?logo=zenodo&logoColor=white)](https://zenodo.org/records/22803534)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 This release contains **97,696 dehydrated public posts** from X.com (formerly Twitter), collected between **October 17, 2024** and **July 16, 2025**. The data span both the pre- and post-election periods of the 2024 U.S. presidential race. Posts were selected if they mention both *“election”* and *“2024”*.
 
@@ -13,9 +14,9 @@ The released file omits post text and direct account or engagement metadata. It 
 
 ## Complete dataset
 
-The complete dataset may be requested from the [Zenodo record](https://zenodo.org/records/21970648).
+The complete dataset may be requested from the [Zenodo record](https://zenodo.org/records/22803534).
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21970648.svg)](https://doi.org/10.5281/zenodo.21970648)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21970648.svg)](https://doi.org/10.5281/zenodo.22803534)
 
 ## Dataset files
 
